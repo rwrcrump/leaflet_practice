@@ -1,5 +1,6 @@
 library(tidyverse)
 library(leaflet)
+library(sf)
 library(htmlwidgets)
 library(shiny)
 
